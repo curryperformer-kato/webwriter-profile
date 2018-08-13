@@ -5,6 +5,8 @@
 本名：加藤　泰明<br>
 住まい：千葉県市川市<br>
 Blog：http://spicecurryevent.hatenablog.com/<br>
+Qiita：https://qiita.com/curryperformer-kato<br>
+note：https://note.mu/curryperformer<br>
 Twitter：https://twitter.com/curryevent<br>
 本業：ITエンジニア<br>
 　　　（職務経歴 https://github.com/curryperformer-kato/resume/blob/master/README.md ）<br>
@@ -23,6 +25,7 @@ Twitter：https://twitter.com/curryevent<br>
 - IT（業界・技術解説・イベントレポート等）
 - カレー（レシピ・店舗紹介・歴史・インド等）
 - エンジニアの働き方（転職・副業・フリーランス等）
+- 街・地域の魅力
 
 ## 実績
 
